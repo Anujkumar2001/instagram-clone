@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "OtovlT8",
+      "caption": "",
+      "img_url": "https://i.ibb.co/NsQ12CT/Hotstar-Kids.png"
+    },
+    {
+      "id": "4",
+      "caption": "this is id 4",
+      "img_url": "https://i.ibb.co/nRRvpwZ/Whats-App-Image-2023-10-03-at-11-10-14-AM.jpg"
+    },
+    {
+      "id": "5",
+      "caption": "sddssdsd",
+      "img_url": "https://i.ibb.co/FBTsjZh/R.jpg"
+    },
+    {
+      "id": "2",
+      "caption": "hi i am anuj shrma ",
+      "img_url": "https://i.ibb.co/XD9tYpK/Hotstar-Kids.png"
+    }
+  ],
+  "comments": [],
+  "likes": [
+    {
+      "id": 2,
+      "like": 4,
+      "dislike": 5
+    }
+  ]
+}

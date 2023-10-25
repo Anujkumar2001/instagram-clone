@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram</title>
+    <link rel="stylesheet" href="../style.css" />
+    <link rel="stylesheet" href="create.css" />
+  </head>
+  <body>
+    <div id="navbar"></div>
+
+    <div id="main_container">
+      <div id="delete_upadet_container">
+        <div id="del-post">
+          <input type="text" name="" id="post_id" class="input" placeholder="ID" />
+          <button id="del_post_btn" class="btn">Delete Post</button>
+        </div>
+        <div id="update_post">
+          <span>
+          <input type="text" id="update_post_id"  class="input" placeholder="Your Post ID" />
+          <input type="text" id="update_caption"  class="input" placeholder="Your Caption"/> </span>
+          <button id="update_btn" class="btn">Update Now</button>
+        </div>
+      </div>
+      <div id="create-post">
+        <input type="text" id="id" placeholder="id" />
+        <input type="text" id="caption" placeholder="caption" />
+        <input type="file" id="image" />
+        <button id="createButton">Create Post</button>
+      </div>
+    </div>
+  </body>
+</html>
+<script type="module" src="create.js"></script>
